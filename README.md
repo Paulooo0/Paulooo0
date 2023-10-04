@@ -16,25 +16,27 @@
          alt="azzar" height="30"/></a>
   <br>
 </p>
+<hr>
 <summary><h3>Languages</h3></summary>
   <p align="center">
     <a href="https://github.com/Paulooo0/">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulooo0&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulooo0&langs_count=6&theme=gotham&layout=compact&count_private=true&show_icons=true&include_all_commits=true"
       alt="Paulooo0 :: overall Top Langs " /></a>
   </p>
   <p align="center">
     <a href="https://github.com/Paulooo0/">
-      <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Paulooo0&theme=gruvbox&layout=compact&hide_border=true"
+      <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Paulooo0&theme=gotham&layout=compact&count_private=true&show_icons=true&include_all_commits=true"
       alt="Paulooo0 :: Top Langs by repo" />
-      <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Paulooo0&theme=gruvbox&layout=compact&hide_border=true"
+      <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Paulooo0&theme=gotham&layout=compact&count_private=true&show_icons=true&include_all_commits=true"
       alt="Paulooo0 :: Top Langs by commit" />
     </a>
   </p>
-<summary><h3>Stasistic</h3></summary>
-  <p align="center">
-    <a href="https://github.com/1999AZZAR/">
-    <img width="47.5%" src="https://github-readme-stats.vercel.app/api?username=Paulooo0&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="50.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Paulooo0&theme=gruvbox&hide_border=true" />
+<hr>
+<summary><h3>Statistic</h3></summary>
+  <p align="center" >
+    <a href="https://github.com/Paulooo0/">
+    <img width="47.5%" src="https://github-readme-stats.vercel.app/api?username=Paulooo0&show_icons=true&theme=gotham&count_private=true&include_all_commits=true" />
+    <img width="50.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Paulooo0&theme=gotham&count_private=true&show_icons=true&include_all_commits=true" />
     </a>
  </p>
 <br>
