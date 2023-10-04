@@ -1,6 +1,8 @@
 
 
-### Hi, I'm Paulo 👋
+<h1 align="center">Hi, I'm Paulo 👋</h1>
+<p>Fullstack web developer.<br>
+Currently learning Java, and specializing in backend.</p>
 <!-- LANGUAGES -->
 <h3> Languages </h3>
 <span> 
@@ -11,7 +13,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </span>
-<!-- TODO: Frameworks, Technologies, Other tools. -->
+<!-- Frameworks -->
 <h3 align="left">Frameworks</h3>
 <span>
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
@@ -19,12 +21,14 @@
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
 </span>
+<!-- Technologies -->
 <h3 align="left">Technologies</h3>
 <span>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </span>
+<!-- Other tools -->
 <h3 align="left">Other tools</h3>
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
